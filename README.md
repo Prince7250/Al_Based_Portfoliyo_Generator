@@ -1,4 +1,4 @@
-# 🚀 Portfolio Generator Website
+# 🚀 AI Based Portfolio Generator Website
 
 A simple and powerful **portfolio generator web application** that allows users to create beautiful, responsive personal portfolios without writing any code. Users can enter their personal information, skills, projects, and social links, and instantly generate a clean portfolio with downloadable files.
 
@@ -37,9 +37,9 @@ Works perfectly on mobile, tablet, and desktop.
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- (Optional) **React.js / TailwindCSS**
-- (Optional) **Node.js & Express** for backend
-- (Optional) **Firebase / MongoDB** for saving user data
+- **React.js / TailwindCSS**
+- **Node.js & Express** for backend
+- **Firebase / MongoDB** for saving user data
 
 ---
 
