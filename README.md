@@ -43,5 +43,3 @@ Works perfectly on mobile, tablet, and desktop.
 
 ---
 
-## 📂 Project Structure
-
