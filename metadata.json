@@ -1,0 +1,5 @@
+{
+  "name": "FolioGen AI",
+  "description": "An AI-Based Portfolio Generator that uses Google Gemini to craft professional, high-impact personal websites from raw user data.",
+  "requestFramePermissions": []
+}
