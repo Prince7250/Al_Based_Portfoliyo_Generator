@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Portfolio Generator Website
 
-# Run and deploy your AI Studio app
+A simple and powerful **portfolio generator web application** that allows users to create beautiful, responsive personal portfolios without writing any code. Users can enter their personal information, skills, projects, and social links, and instantly generate a clean portfolio with downloadable files.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/10pWyreLM6jzZVijAdl1OVcoyOkpFNDjP
+## 📌 Features
 
-## Run Locally
+### ✔ Easy-to-Use Interface  
+Users can fill out a simple form with:
+- Name, Bio, Profile Image  
+- Skills (Tech stack)  
+- Projects  
+- Education  
+- Work Experience  
+- Contact & Social Media links  
 
-**Prerequisites:**  Node.js
+### ✔ Real-Time Preview  
+Instant live preview while entering the details.
 
+### ✔ Multiple Templates  
+Choose from different modern and responsive portfolio designs.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### ✔ Export Option  
+Download the generated portfolio files (`HTML/CSS/JS`) to host anywhere.
+
+### ✔ Shareable Link (Optional)  
+Host the portfolio online with a generated public link.
+
+### ✔ Fully Responsive  
+Works perfectly on mobile, tablet, and desktop.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- (Optional) **React.js / TailwindCSS**
+- (Optional) **Node.js & Express** for backend
+- (Optional) **Firebase / MongoDB** for saving user data
+
+---
+
+## 📂 Project Structure
+
